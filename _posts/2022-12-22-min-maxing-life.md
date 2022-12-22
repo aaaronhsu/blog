@@ -9,7 +9,7 @@ pin: true
 
 A few days ago, my friend, [Arvindh](https://arvindh-manian.github.io/ "Arvindh's Blog") and I were talking about the optimal ratio of social skills and intellect that a person should possess. Although our conversation was relatively short-lasted, it was quite thought provoking. Would it be better to be more social or intelligent? Or, would a 50/50 split be optimal? It's interesting to think about.
 
-There's this idea in video games that has strongly correlates to this:
+There's this idea in video games that strongly correlates to this:
 
 Min-maxing (noun)
 : The character-building strategy of maximizing a specific desirable ability, skill, or other power of a character while sacrificing less desirable traits
