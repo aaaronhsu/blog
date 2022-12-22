@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Aaron Hsu</title>
   <subtitle>Aaron Hsu's personal website.</subtitle>
-  <updated>2022-12-21T08:22:48+00:00</updated>
+  <updated>2022-12-22T10:33:30+00:00</updated>
   <author>
     <name>Aaron Hsu</name>
     <uri>http://localhost:4000/</uri>
@@ -20,23 +20,21 @@
 
   
   <entry>
-    <title>Placeholder Post!</title>
-    <link href="http://localhost:4000/posts/placeholder-post/" rel="alternate" type="text/html" title="Placeholder Post!" />
-    <published>2022-12-21T06:55:00+00:00</published>
+    <title>Min-Maxing Life</title>
+    <link href="http://localhost:4000/posts/min-maxing-life/" rel="alternate" type="text/html" title="Min-Maxing Life" />
+    <published>2022-12-22T09:55:00+00:00</published>
   
-    <updated>2022-12-21T06:55:00+00:00</updated>
+    <updated>2022-12-22T09:55:00+00:00</updated>
   
-    <id>http://localhost:4000/posts/placeholder-post/</id>
-    <content src="http://localhost:4000/posts/placeholder-post/" />
+    <id>http://localhost:4000/posts/min-maxing-life/</id>
+    <content src="http://localhost:4000/posts/min-maxing-life/" />
     <author>
       <name>aaron</name>
     </author>
 
   
     
-    <category term="Blogging" />
-    
-    <category term="Testing" />
+    <category term="non-cs" />
     
   
 
@@ -48,8 +46,9 @@
 
 
 
-      This is a placeholder post!
+      A few days ago, my friend, Arvindh and I were talking about the optimal ratio of social skills and intellect that a person should possess. Although our conversation was relatively short-lasted, it provoked quite a few thoughts. Would it be better to be more social or intelligent? Alternatively, would a 50/50 split be optimal? It’s interesting to think about.
 
+There’s this idea in games that has...
     </summary>
   
 
