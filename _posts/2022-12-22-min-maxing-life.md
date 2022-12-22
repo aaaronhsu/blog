@@ -7,32 +7,32 @@ tags: [social]
 pin: true
 ---
 
-A few days ago, my friend, [Arvindh](https://arvindh-manian.github.io/ "Arvindh's Blog") and I were talking about the optimal ratio of social skills and intellect that a person should possess. Although our conversation was relatively short-lasted, it provoked quite a few thoughts. Would it be better to be more social or intelligent? Alternatively, would a 50/50 split be optimal? It's interesting to think about.
+A few days ago, my friend, [Arvindh](https://arvindh-manian.github.io/ "Arvindh's Blog") and I were talking about the optimal ratio of social skills and intellect that a person should possess. Although our conversation was relatively short-lasted, it was quite thought provoking. Would it be better to be more social or intelligent? Or, would a 50/50 split be optimal? It's interesting to think about.
 
-There's this idea in games that has strongly correlates to this:
+There's this idea in video games that has strongly correlates to this:
 
 Min-maxing (noun)
 : The character-building strategy of maximizing a specific desirable ability, skill, or other power of a character while sacrificing less desirable traits
 
-Usually, in games, you're given a finite number of "skill points" that you're allowed to assign towards a variety of statistics (stats, for short)--strength, defense, dexterity, and intelligence, to name a few. If you want your character to be a fighter, it would make sense to allocate the majority of your points to strength and defense. However, a wizard may find the intelligence stat more preferable. The assignment of these points is referred to as:
+In games, you're usually given a finite number of "skill points" that you're allowed to assign towards a variety of statistics like strength, defense, dexterity, and intelligence (stats, for short). If you want your character to be a fighter, it would make sense to allocate the majority of your points to strength and defense. However, a wizard may find the intelligence stat preferable. The assignment of these points is referred to as:
 
 Specing (verb)
 : The expenditure of resources, to gain abilities or advantages
 
-The concept of min-maxing is something that draws parallels with real-life. A body builder would spec into strength, while a researcher would prioritize specing into intelligence and dexterity.
+The concept of min-maxing is something that draws parallels with real-life.
 
-Consider the activities that you partake in each day. Maybe you like playing an instrument, so you set aside an hour each day to practice. Maybe you choose to cook your own meals because eating outside is generally less healthy. Maybe you go to the gym because you enjoy the physical and mental health benefits. The hundreds of actions that we take are conscious decisions of whether or not something is or isn't worth our time. By allocating our time to certain activities, we are essentially choosing which "stats" to develop. For example, playing an instrument could improve your "intelligence" or "charisma" stats.
+Consider the activities that you partake in each day. Maybe you like playing an instrument, so you set aside an hour each day to practice. Maybe you choose to cook your own meals because eating outside is generally less healthy. Maybe you go to the gym because you enjoy the physical and mental health benefits. The hundreds of actions that we take every day are conscious decisions of whether or not something is or isn't worth our time. By allocating our time to certain activities, we are essentially choosing which "stats" to develop. For example, playing an instrument could improve your "intelligence" or "charisma" stats.
 
-Spending time on an activity is analagous to specing into a stat.
+**_Spending time on an activity is analagous to specing into a stat._**
 
 But generally, we don't think of what we spend our time on as developing stats (at least I don't). Subsequently, *we usually subconsciously optimize for what we enjoy, rather than what brings us success*. This subconscious focus on our hedonistic desires messes with our decision calculation. 
 
 
 ## Problems
 
-There's a lot of issues with this whole "min-maxing" idea translating to real-life. How can one even quantify stats? What does 20 points into intelligence mean as opposed to 50? Real-life poses a mess of abstractions so bringing this idea to levels of granularity makes lose its meaning.
+There's a lot of issues with this whole "min-maxing" idea translating to real-life. How can one even quantify stats? What does 20 points into intelligence mean as opposed to 50? Real-life poses a mess of abstractions so bringing this idea to levels of granularity makes the whole topic more confusing.
 
-I still believe that it's important to think about the characteristics that we choose to develop in our time. I've been getting into self-help books this past year and one idea that stuck with me is to identify your values so that you can more easily tell whether or not an activity will work towards your overall goal. This essentiallly boils down to knowing what stats you want to spec into, so you can plan your activities accordingly. 
+But, I still believe that it's important to think about the stats that we choose to develop with our time. I've been getting into self-help books this past year and one idea that stuck with me is to identify your values so that you can more easily tell whether or not an activity will work towards your overall goal. This essentiallly boils down to knowing what stats you want to spec into, so you can plan your activities accordingly. 
 
 
 ## Points to talk about
