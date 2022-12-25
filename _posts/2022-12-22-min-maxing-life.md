@@ -2,9 +2,13 @@
 title: Min-Maxing Life
 author: aaron
 date: 2022-12-22 04:55:00 -0500
-categories: [non-cs]
-tags: [social]
-pin: true
+categories: [non-cs, thoughts]
+tags: [social, games]
+---
+
+TL;DR:
+: Optimizing for the development of desirable skills is a prevalent concept in games, but it also has real-life parallels. Although there are caveats to the analogy, this idea of "min-maxing" has implications in both social and professional aspects of life.
+
 ---
 
 ## What is Min-Maxing?
@@ -39,9 +43,9 @@ There are a few key differences between min-maxing in real life and min-maxing i
 2. **Some people may be naturally better/more inclined to develop a specific stat than others**
 : The environment that you are born into heavily dictates what stats you value. For instance, if you're born into an economically disadvantaged family, you may be more inclined to spec into intelligence because pursuing higher-level education generally correlates to higher income. However, if you're born into a wealthy family, you may be able to allocate more time into specing into charisma because connections and influence over others is a versatile skill that can be applied to many different situations.
 3. **Progress towards the development of a stat is not guaranteed**
-: When you start an activity in a game, tools like experience bars make it apparent as to how much progress you've made towards a set goal. In real life, however, you could spend countless hours working on an issue that never gets resolved or sink years into a fruitless career that never takes off. Factors outside of your control often make it difficult to determine the payoff of an action. You just have to have trust in your actions and hope that whatever you believe to be most worth your time is actually what you expect.
+: When you start an activity in a game, tools like experience bars make it apparent as to how much progress you've made towards a set goal. In real life, however, you could spend countless hours working on an issue that never gets resolved or sink years into a fruitless career that never takes off. Factors outside of your control often make it difficult to determine the payoff of an action. You just have to have trust in your actions and hope that the results are actually what you expect.
 4. **Decision calculations are skewed by hedonistic desires**
-: Games are crafted to ensure that developing skills is fun. However, this is often false in real life. Usually, the most desirable traits are the ones that are the most difficult to develop (due to supply and demand). Subsequently, we may be more inclined to spec into the less desirable, easier-to-develop-stats. For instance, even if you know that you'll be happier in the long run if you spend time studying for an exam (investing in intelligence), you may not be able to resist the urge to practice a hobby or go out with friends. Because most of us live our lives greedily, optimizing for total happiness over the forseeable future, the time investments (specing choices) we make are often based on our current desires and expectations, which may not always be in our best interest.
+: Games are crafted to ensure that developing skills is fun. However, this is often false in real life. Usually, the most desirable traits are the ones that are the most difficult to develop. Subsequently, we may be more inclined to spec into less desirable and easier-to-develop stats. For instance, even if you know that you'll be happier in the long run if you spend time studying for an exam (investing in intelligence), you may not be able to resist the urge to practice a hobby or go out with friends. Because most of us live our lives greedily, optimizing for total happiness over the forseeable future, the time investments (specing choices) we make are often based on our current desires and expectations, which may not always be in our best interest.
 
 ![Hedonism](/assets/img/posts/2022-12-22-min-maxing-life/hedonism.jpg){: width="972" height="589" }
 _Relevant Chart_
@@ -49,28 +53,28 @@ _Relevant Chart_
 With the limitations[^fn1]: of min-maxing in real life in mind, we can move on to talk about the interesting implications of it in real life.  
 
 
-## Relevance of Stats In Real Life
+## Relevance of Stats & Min-Maxing
 
 ### Socially
 Since coming to college, I've been paying close attention to the composition of successful social groups and I've noticed that there exists a strong correlation between what stats people spec into and the social groups that they belong to. Archetypes like the "CS nerd" or the "jock" are not just stereotypes--they hint towards the stat breakdown of an individual. These stat preferences serve as a valuable heuristic for determining whether or not you'll be compatible with a person. If you find someone that has a similar stat breakdown as you, they likely have similar values and interests as you. 
 
-But generally, we don't think of befriending others as analyzing stats to evaluate compatibility. We just think of it as "clicking" with someone. Our perception of others is influenced by the stats that they spec into.
+Subconsciously, when we befriend others, there's this whole process of analyzing stats to evaluate compatibility. The stats that they spec into give us an idea of who they are and what they value. From our formed perception of them, we are then able to make the informed decision of whether or not we "click" with them.
 
-This brings up an interesting point: the stats that others may seem to have are not necessarily a reflection of their true self. They're more of a reflection of the person that they aim to be. Conversely, the stats that you may think you have are not necessarily the same stats that others perceive you to have. For instance, you may think of yourself as a social butterfly, but if you're truly not good at interacting with others, or other people see you as awkward, you may not be as socially adept as you think you are. It doesn't matter what you think you are--it matters what others think you are because they are the ones that can dictate your life (e.g. your employer, your friends, your significant other, etc.).
+This brings up an interesting point: the stats that others may seem to have are not necessarily a reflection of their true self. They're more of a reflection of the person that they aim to be. Conversely, _the stats that you may think you have are not necessarily the same stats that others perceive you to have_. For instance, you may think of yourself as a social butterfly, but if you're not good at interacting with others, or other people see you as awkward, you may not be as socially adept as you think you are. It doesn't matter what you think you are--it matters what others think you are because they are the ones that can dictate your life trajectory (e.g. your employer, your friends, your significant other, etc.).
 
-Take a moment to think about the stats that you spec into. Think about the actions that you take each day and the time that you spend on them. Now, think about how others would describe you. Does their description reflect the stats that you spec into? My hypothesis is that the closer the two descriptions are, the more likely you are to be successful, whether that be your career or your social life.
+Take a moment to think about the stats that you spec into. Think about the actions that you take each day and the time that you spend on them. Now, think about how others would describe you. Does their description reflect the stats that you spec into? My hypothesis is that the closer the two descriptions are, the more likely you are to be successful, whether that be your in career or your social life.
 
 ### Professionally
-Specing into a single stat has a non-linear reward curve.
+I argue that specing into a single stat has a non-linear reward curve.
 
 For one, once you become proficient at a certain stat, you can leverage that skill to more easily spec into adjacent stats. For instance, if you're an excellent public speaker, you can use that skill to spec into charisma. If you're a good athlete, you'll likely have an easier time interacting with others and can use that skill to spec into social.
 
-In terms of your career, as you spend more time specializing in a certain stat, it is exponentially more likely that you will be successful in that field. Below is what I believe to be a reasonable representation of the reward curve for specing into a stat.
+In terms of your career, as you spend more time specializing in a certain stat, it is exponentially more likely that you will be successful in that field. Below is what I believe to be a reasonable representation of the reward curve for specing into a stat in terms of being desirable to an employer.
 
 ![Time vs. Desirability](/assets/img/posts/2022-12-22-min-maxing-life/time-vs-desirability.png){: width="972" height="589" }
 _Time vs. Desirability_
 
-The left third of the graph probably makes the most sense. Gaining a basic level of a stat is easy and has a sizeable payoff because you will immediately be better than the average person. The middle third of the graph is where things get interesting: your desirablity plateaus. Why? At that point, your skill level matches the needs of most jobs--you're considered a professional, but lack the expertise to be considered an expert. The right third of the graph is where the payoff is the greatest. At this point, you are an expert in your field and are able to leverage your expertise to make a significant impact on the world.
+The left third of the graph probably makes the most sense. Gaining a basic level of a stat is easy and has a sizeable payoff because you will immediately be better than the average person. The middle third of the graph is where things get interesting: your desirablity plateaus. Why? At that point, your skill level matches the needs of most jobs--you're considered a professional, but lack the expertise to be considered an expert. In other words, you can do your job well, but your job doesn't make use of your additional skills so they're not applicable. The right third of the graph is where the payoff is the greatest. At this point, you are an expert in your field and are able to leverage your expertise to acquire a special job that makes use of your rarer skills.
 
 Income distributions seem to support this idea. Below is a graph that demonstrates the plateau effect on the income (and subsequently desirability, due to supply and demand) of software developers in industry. The plateau is where the red line is. 
 
@@ -87,9 +91,9 @@ _Physician Income Plateau_
 
 This past year, I've been getting into self-help books and one of the most insightful pieces of advice that I've come upon is that it's important to identify your core values so that you can more easily evaluate whether an action will work towards your overall "life goal." This essentially boils down to knowing what stats you want to spec into, so that you can more easily evaluate whether an action will work towards your overall goals.
 
-Is the idea of min-maxing life something revolutionary? Nope. Will I be changing the way I spend my time because of it? Probably not. I know that many of the things that I've said are a bit abstract, but I think that the idea of min-maxing in real life is a unique way to think about how we spend our time. It's a fun way to quantify the value of our actions and to make slightly more informed decisions about how we spend our time. 
+Is the idea of min-maxing life something revolutionary? Nope. Will I be changing the way I spend my time because of it? Probably not. I know that many of the things that I've said in this post are a bit abstract, but I think that the idea of min-maxing in real life is a unique way to think about how we spend our time. It's a fun way to quantify the value of our actions and to make slightly more informed decisions about how we spend our time. 
 
 ---
-
+[^tldr]: Optimizing for the development of desirable skills is a prevalent concept in games, but it also has real-life parallels. Although there are caveats to the analogy, this idea of "min-maxing" has implications in both social and professional aspects of life.
 [^fn1]: Okay, I'll admit that there's a lot of issues with getting specific about how min-maxing translates into real-life. How can one even quantify stats? What does 20 points into intelligence mean as opposed to 50? Real-life poses a mess of abstractions so bringing this idea to levels of granularity gets super confusing.
 [^fn2]: This is under the assumption that specializations that pay more require more skill. This isn't necessarily true, but following the law of supply and demand, this assumption does have some merit (jobs that are easy are more easily filled so the demand and subsequently pay should fall).

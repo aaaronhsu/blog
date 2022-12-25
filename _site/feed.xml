@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Aaron Hsu</title>
   <subtitle>Aaron Hsu's personal website.</subtitle>
-  <updated>2022-12-25T08:19:00+00:00</updated>
+  <updated>2022-12-25T08:52:56+00:00</updated>
   <author>
     <name>Aaron Hsu</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/min-maxing-life/" rel="alternate" type="text/html" title="Min-Maxing Life" />
     <published>2022-12-22T09:55:00+00:00</published>
   
-    <updated>2022-12-25T08:16:41+00:00</updated>
+    <updated>2022-12-25T08:19:08+00:00</updated>
   
     <id>http://localhost:4000/posts/min-maxing-life/</id>
     <content src="http://localhost:4000/posts/min-maxing-life/" />
@@ -36,6 +36,8 @@
     
     <category term="non-cs" />
     
+    <category term="thoughts" />
+    
   
 
   
@@ -46,10 +48,15 @@
 
 
 
-      What is Min-Maxing?
-A few days ago, my friend, Arvindh and I were discussing the ideal ratio of social skills and intellect that a person should possess. Although our conversation was relatively short-lasted, it provoked quite a few thoughts. Would it be better to be more social or intelligent? Would a 50/50 split be optimal? It’s interesting to think about.
+      
+  TL;DR:
+  Optimizing for the development of desirable skills is a prevalent concept in games, but it also has real-life parallels. Although there are caveats to the analogy, this idea of “min-maxing” has implications in both social and professional aspects of life.
 
-There’s this idea in video games th...
+
+
+
+What is Min-Maxing?
+A few days ago, my friend, Arvindh and I were discussing the ideal ratio of social skills and intellect t...
     </summary>
   
 
