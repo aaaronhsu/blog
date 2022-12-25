@@ -77,7 +77,7 @@ Income distributions seem to support this idea. Below is a graph that demonstrat
 ![Software Developer Income](/assets/img/posts/2022-12-22-min-maxing-life/software-income.png){: width="972" height="589" }
 _Software Developer Income Plateau_
 
-And here's a graph that demonstrates the same effect for physicians with the plateau shifted more to the right (plateau occurs around the 380k-420k range).
+And here's a graph that demonstrates the same effect for physicians with the plateau shifted more to the right (plateau occurs around the 380k-420k range).[^fn2]
 
 ![Physician Income](/assets/img/posts/2022-12-22-min-maxing-life/physician-income.png){: width="972" height="589" }
 _Physician Income Plateau_
@@ -92,3 +92,4 @@ Is the idea of min-maxing life something revolutionary? Nope. Will I be changing
 ---
 
 [^fn1]: Okay, I'll admit that there's a lot of issues with getting specific about how min-maxing translates into real-life. How can one even quantify stats? What does 20 points into intelligence mean as opposed to 50? Real-life poses a mess of abstractions so bringing this idea to levels of granularity gets super confusing.
+[^fn2]: This is under the assumption that specializations that pay more require more skill. This isn't necessarily true, but following the law of supply and demand, this assumption does have some merit (jobs that are easy are more easily filled so the demand and subsequently pay should fall).
