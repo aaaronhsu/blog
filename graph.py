@@ -3,7 +3,7 @@ import numpy as np
 
 with plt.xkcd():
     # Create data
-    x = np.linspace(0, 9)
+    x = np.linspace(0, 8.3)
     y = (((x-4)/3)**3 + 2.37) * 10
     # Plot data
     plt.plot(x, y)
