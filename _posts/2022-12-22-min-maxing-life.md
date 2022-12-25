@@ -50,7 +50,7 @@ There are a few key differences between min-maxing in real life and min-maxing i
 ![Hedonism](/assets/img/posts/2022-12-22-min-maxing-life/hedonism.jpg){: width="972" height="589" }
 _Relevant Chart_
 
-With the limitations[^fn1]: of min-maxing in real life in mind, we can move on to talk about the interesting implications of it in real life.  
+With the limitations[^fn1] of min-maxing in real life in mind, we can move on to talk about the interesting implications of it in real life.  
 
 
 ## Relevance of Stats & Min-Maxing
