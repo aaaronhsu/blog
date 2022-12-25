@@ -8,8 +8,10 @@ with plt.xkcd():
     # Plot data
     plt.plot(x, y)
     # Add labels
-    plt.xlabel('Hundreds of Hours of Practice')
+    plt.xlabel('Time Invested')
     plt.ylabel('Desirablity')
+    plt.xticks([])
+    plt.yticks([])
     plt.title('Investment in Time vs. Desirability')
 
     plt.show()

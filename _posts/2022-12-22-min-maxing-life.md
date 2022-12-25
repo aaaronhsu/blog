@@ -85,7 +85,7 @@ Also, once you become proficient at a certain stat, you can leverage that skill 
 
 This past year, I've been getting into self-help books and one of the most insightful pieces of advice that I've come upon is that it's important to identify your core values so that you can more easily evaluate whether an action will work towards your overall "life goal." This essentially boils down to knowing what stats you want to spec into, so that you can more easily evaluate whether an action will work towards your overall "life" goal. Yes, I know that many of the things that I've said are a bit abstract, but I think that the idea of min-maxing in real life is a useful way to think about how we spend our time. It's a way to quantify the value of our actions and to make more informed decisions about how we spend our time.
 
-Is the idea of min-maxing life something revolutionary? Nope. Will I be changing the way I spend my time because of it? Probably not. I just find it interesting to think about.  
+Is the idea of min-maxing life something revolutionary? Nope. Will I be changing the way I spend my time because of it? Probably not. I just find this whole thing interesting to think about.  
 
 ---
 

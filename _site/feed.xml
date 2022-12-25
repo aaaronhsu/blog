@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Aaron Hsu</title>
   <subtitle>Aaron Hsu's personal website.</subtitle>
-  <updated>2022-12-25T03:07:40+00:00</updated>
+  <updated>2022-12-25T07:37:42+00:00</updated>
   <author>
     <name>Aaron Hsu</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/min-maxing-life/" rel="alternate" type="text/html" title="Min-Maxing Life" />
     <published>2022-12-22T09:55:00+00:00</published>
   
-    <updated>2022-12-25T03:00:02+00:00</updated>
+    <updated>2022-12-25T06:03:24+00:00</updated>
   
     <id>http://localhost:4000/posts/min-maxing-life/</id>
     <content src="http://localhost:4000/posts/min-maxing-life/" />
