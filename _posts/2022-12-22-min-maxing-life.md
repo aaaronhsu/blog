@@ -22,7 +22,7 @@ Min-maxing (noun)
 In many games, you're given a finite number of "skill points" that you're allowed to assign towards a variety of statistics (stats, for short)--strength, defense, charisma, and intelligence, to name a few. If you want your character to be a fighter, it would make sense to allocate the majority of your points to strength and defense. However, a wizard may find the intelligence stat preferable. The assignment of these points is referred to as:
 
 Specing (verb)
-: The expenditure of resources, to gain abilities or advantages
+: The expenditure of resources to gain abilities or advantages
 
 ![Minecraft Stats](/assets/img/posts/2022-12-22-min-maxing-life/minecraft-stats.jpg){: width="972" height="589" }
 _Stats in Minecraft_
@@ -60,7 +60,7 @@ Since coming to college, I've been paying close attention to the composition of 
 
 Subconsciously, when we befriend others, there's this whole process of analyzing stats to evaluate compatibility. The stats that they spec into give us an idea of who they are and what they value. From our formed perception of them, we are then able to make the informed decision of whether or not we "click" with them.
 
-This brings up an interesting point: the stats that others may seem to have are not necessarily a reflection of their true self. They're more of a reflection of the person that they aim to be. Conversely, **_the stats that you may think you have are not necessarily the same stats that others perceive you to have_**. For instance, you may think of yourself as a social butterfly, but if you're not good at interacting with others, or other people see you as awkward, you may not be as socially adept as you think you are. It doesn't matter what you think you are--it matters what others think you are because they are the ones that can dictate your life trajectory (e.g. your employer, your friends, your significant other, etc.).
+This leads to an interesting point: the stats that others may seem to have are not necessarily a reflection of their true self. They're more of a reflection of the person that they aim to be. Conversely, **_the stats that you may think you have are not necessarily the same stats that others perceive you to have_**. For instance, you may think of yourself as a social butterfly, but if you're not good at interacting with others, or other people see you as awkward, you may not be as socially adept as you think you are. It doesn't matter what you think you are--it matters what others think you are because they are the ones that can dictate your life trajectory (e.g. your employer, your friends, your significant other, etc.).
 
 Take a moment to think about the stats that you spec into. Think about the actions that you take each day and the time that you spend on them. Now, think about how others would describe you. Does their description reflect the stats that you spec into? My hypothesis is that the closer the two descriptions are, the more likely you are to be successful, whether that be your in career or your social life.
 
