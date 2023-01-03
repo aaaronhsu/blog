@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Aaron Hsu</title>
   <subtitle>Aaron Hsu's personal website.</subtitle>
-  <updated>2022-12-25T09:03:10+00:00</updated>
+  <updated>2023-01-02T07:45:41+00:00</updated>
   <author>
     <name>Aaron Hsu</name>
     <uri>http://localhost:4000/</uri>
@@ -13,7 +13,7 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator>
-  <rights> © 2022 Aaron Hsu </rights>
+  <rights> © 2023 Aaron Hsu </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/min-maxing-life/" rel="alternate" type="text/html" title="Min-Maxing Life" />
     <published>2022-12-22T09:55:00+00:00</published>
   
-    <updated>2022-12-25T08:56:01+00:00</updated>
+    <updated>2023-01-02T07:06:11+00:00</updated>
   
     <id>http://localhost:4000/posts/min-maxing-life/</id>
     <content src="http://localhost:4000/posts/min-maxing-life/" />
