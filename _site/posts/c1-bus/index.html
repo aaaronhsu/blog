@@ -23,6 +23,12 @@
 
   
 
+    
+
+    
+
+  
+
   
 
   
@@ -30,24 +36,27 @@
   
     <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v4.3.1" />
-<meta property="og:title" content="non-cs" />
+<meta property="og:title" content="Transloc" />
+<meta name="author" content="Aaron Hsu" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="Aaron Hsu’s personal website." />
-<meta property="og:description" content="Aaron Hsu’s personal website." />
-<link rel="canonical" href="http://localhost:4000/categories/non-cs/" />
-<meta property="og:url" content="http://localhost:4000/categories/non-cs/" />
+<meta name="description" content="TL;DR: I built a device that displays the bus schedule for the bus that runs between the two halves of Duke’s campus." />
+<meta property="og:description" content="TL;DR: I built a device that displays the bus schedule for the bus that runs between the two halves of Duke’s campus." />
+<link rel="canonical" href="http://localhost:4000/posts/c1-bus/" />
+<meta property="og:url" content="http://localhost:4000/posts/c1-bus/" />
 <meta property="og:site_name" content="Aaron Hsu" />
-<meta property="og:type" content="website" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-01-03T16:00:00+00:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="non-cs" />
+<meta property="twitter:title" content="Transloc" />
 <meta name="twitter:site" content="@aaaronhsu" />
+<meta name="twitter:creator" content="@aaaronhsu" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Aaron Hsu’s personal website.","headline":"non-cs","url":"http://localhost:4000/categories/non-cs/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Aaron Hsu","url":"https://github.com/chicknmilk"},"dateModified":"2023-01-03T16:00:00+00:00","datePublished":"2023-01-03T16:00:00+00:00","description":"TL;DR: I built a device that displays the bus schedule for the bus that runs between the two halves of Duke’s campus.","headline":"Transloc","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/c1-bus/"},"url":"http://localhost:4000/posts/c1-bus/"}</script>
 <!-- End Jekyll SEO tag -->
 
   
 
-  <title>non-cs | Aaron Hsu
+  <title>Transloc | Aaron Hsu
   </title>
 
   <!--
@@ -101,7 +110,12 @@
   <link rel="stylesheet" href="/assets/css/style.css">
 
   
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/afeld/bootstrap-toc@1.0.1/dist/bootstrap-toc.min.css">
+  
 
+  
+    <!-- Manific Popup -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/magnific-popup@1/dist/magnific-popup.min.css">
   
 
   <!-- JavaScript -->
@@ -403,19 +417,13 @@
       
 
         
-          <span>
-            <a href="/categories">
-              Categories
-            </a>
-          </span>
-        
 
       
 
         
 
           
-            <span>non-cs</span>
+            <span>Transloc</span>
           
 
         
@@ -429,7 +437,7 @@
     <i id="sidebar-trigger" class="fas fa-bars fa-fw"></i>
 
     <div id="topbar-title">
-      Category
+      Post
     </div>
 
     <i id="search-trigger" class="fas fa-search fa-fw"></i>
@@ -463,18 +471,108 @@
     
       
       
-        <div id="page-category">
-  <h1 class="pl-lg-2">
-    <i class="far fa-folder-open fa-fw text-muted"></i>
-    non-cs
-    <span class="lead text-muted pl-2">1</span>
-  </h1>
+        <!--
+  Refactor the HTML structure.
+-->
 
-  <ul class="post-content pl-0">
+
+
+<!--
+  In order to allow a wide table to scroll horizontally,
+  we suround the markdown table with `<div class="table-wrapper">` and `</div>`
+-->
+
+
+
+<!--
+  Fixed kramdown code highlight rendering:
+  https://github.com/penibelst/jekyll-compress-html/issues/101
+  https://github.com/penibelst/jekyll-compress-html/issues/71#issuecomment-188144901
+-->
+
+
+
+<!-- Change the icon of checkbox -->
+
+
+<!-- images -->
+
+
+
+
+
+<!-- Add header for code snippets -->
+
+
+
+<!-- Create heading anchors -->
+
+
+
+
+
+  
+  
+
+  
+
+  
+  
+
+  
     
-    <li class="d-flex justify-content-between pl-md-3 pr-md-3">
-      <a href="/posts/min-maxing-life/">Min-Maxing Life</a>
-      <span class="dash flex-grow-1"></span>
+    
+
+    
+      
+        
+        
+      
+
+      
+      
+
+      
+      
+      
+
+      
+
+    
+
+    
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+
+
+
+<!-- Wrap prompt element of blockquote with the <div> tag -->
+
+
+
+
+
+
+
+<!-- return -->
+
+<h1 data-toc-skip>Transloc</h1>
+
+<div class="post-meta text-muted">
+    <!-- published date -->
+    <span>
+      Posted
       <!--
   Date format snippet
   See: ${JS_ROOT}/utils/locale-dateime.js
@@ -484,17 +582,202 @@
 
 
 
-<span class="text-muted small"
-    data-ts="1671702900"
+<em class=""
+    data-ts="1672761600"
     data-df="ll"
-    >
-  Dec 22, 2022
-</span>
+    data-toggle="tooltip" data-placement="bottom">
+  Jan  3, 2023
+</em>
 
-    </li>
+    </span>
+
+    <!-- lastmod date -->
     
-  </ul>
+
+  
+
+  <div class="d-flex justify-content-between">
+    <!-- author(s) -->
+    <span>
+      
+
+      By
+
+      <em>
+      
+        
+          <a href="https://github.com/chicknmilk">Aaron Hsu</a>
+          
+        
+      
+      </em>
+    </span>
+
+    <div>
+      <!-- page views -->
+      
+
+      <!-- read time -->
+      <!--
+  Calculate the post's reading time, and display the word count in tooltip
+ -->
+
+
+
+<!-- words per minute  -->
+
+
+
+
+
+
+
+
+
+
+<!-- return element -->
+<span class="readtime" data-toggle="tooltip" data-placement="bottom"
+  title="484 words">
+  <em>2 min</em> read</span>
+
+    </div>
+
+  </div> <!-- .d-flex -->
+
+</div> <!-- .post-meta -->
+
+<div class="post-content">
+  <dl>
+  <dt>TL;DR:</dt>
+  <dd>I built a device that displays the bus schedule for the bus that runs between the two halves of Duke’s campus.</dd>
+</dl>
+
+<hr />
+
+<p>Duke is split into two halves, East Campus and West Campus. East houses the freshman undergraduate population and a few classes (mostly humanities) and the rest of the university is on West. There’s a bus line called the C-1 that runs between the two campuses. Buses run every few minutes at peak hours and roughly every 20 minutes late at night.</p>
+
+<p>Because the bus line is run by Duke, they’ve integrated this system called “Transloc” into their busing system. It’s essentially a bus tracker–it allows you to see where all the buses are in real-time and it provides estimates as to when each bus will arrive at their stops. I know a few other universities also have Transloc, or something similar.</p>
+
+<p>To its credit, Transloc is a fairly good product. There’s a mobile app that doesn’t have an ugly UI, and the information it displays is accurate. My main gripe with it is that the app can be slow at times. When I’m in my room on East Campus and I need to know exactly how long I have until the last bus I can take that will get me to class on time arrives, I can’t be sitting around waiting a full 5 seconds until the app loads before taking a couple of seconds to navigate to the C-1 bus information. Too slow.</p>
+
+<p>In NYC, every bus stop is equipped with a small screen that displays time estimates for the next few buses in real-time. I needed one of those in my room. So, with the extra time I had at the end of the semester, I started work on building a small device that could display time estimates for the C-1 bus.</p>
+
+<h3 id="part-one-webscraping"><span class="mr-2">Part One: Webscraping</span><a href="#part-one-webscraping" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
+<p>I’ve been familiar with the concept of webscraping before coming to Duke, but I’ve never tried webscraping myself. I thought that this would be a good first project for webscraping because Transloc also has a website, so I decided to give it a try. I figured that given its extensive packages, Python would be the easiest language to scrape with so I first used Python to ensure that webscraping was the right tool for this project. It didn’t take long before I was able to retrieve the page HTML:</p>
+
+<div class="language-py highlighter-rouge"><div class="code-header">
+        <span data-label-text="Python"><i class="fas fa-code small"></i></span>
+      <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+</pre></td><td class="rouge-code"><pre><span class="kn">import</span> <span class="nn">requests</span>
+
+<span class="n">URL</span> <span class="o">=</span> <span class="s">"https://duke.transloc.com/t/stops/4117202"</span>
+<span class="n">page</span> <span class="o">=</span> <span class="n">requests</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="n">URL</span><span class="p">)</span>
+
+<span class="k">print</span><span class="p">(</span><span class="n">page</span><span class="p">.</span><span class="n">text</span><span class="p">)</span>
+</pre></td></tr></tbody></table></code></div></div>
+
+<p>The payload data provided time estimates for the next two buses for the stop on East Campus, which was exactly what I was looking for. With that in mind, I started work on figuring out how I could webscrape on a microcontroller.</p>
+
+<p>The two microcontrollers I had access to were the ESP-8266 and the ESP-32. The ESP-32 is the newer and more powerful of the two, so I went with that.</p>
+
 </div>
+
+<div class="post-tail-wrapper text-muted">
+
+  <!-- categories -->
+  
+  <div class="post-meta mb-3">
+    <i class="far fa-folder-open fa-fw mr-1"></i>
+    
+      <a href='/categories/projects/'>projects</a>,
+      <a href='/categories/engineering/'>engineering</a>
+  </div>
+  
+
+  <!-- tags -->
+  
+  <div class="post-tags">
+    <i class="fa fa-tags fa-fw mr-1"></i>
+      
+      <a href="/tags/webscraping/"
+          class="post-tag no-text-decoration" >webscraping</a>
+      
+      <a href="/tags/apis/"
+          class="post-tag no-text-decoration" >apis</a>
+      
+      <a href="/tags/duke/"
+          class="post-tag no-text-decoration" >duke</a>
+      
+  </div>
+  
+
+  <div class="post-tail-bottom
+    d-flex justify-content-between align-items-center mt-3 pt-5 pb-2">
+    <div class="license-wrapper">
+
+      
+
+        
+
+        This post is licensed under 
+        <a href="https://creativecommons.org/licenses/by/4.0/">
+          CC BY 4.0
+        </a>
+         by the author.
+
+      
+    </div>
+
+    <!--
+ Post sharing snippet
+-->
+
+<div class="share-wrapper">
+  <span class="share-label text-muted mr-1">Share</span>
+  <span class="share-icons">
+    
+    
+    
+
+    
+      
+        <a href="https://twitter.com/intent/tweet?text=Transloc+-+Aaron+Hsu&url=http%3A%2F%2Flocalhost%3A4000%2Fposts%2Fc1-bus%2F" data-toggle="tooltip" data-placement="top"
+          title="Twitter" target="_blank" rel="noopener" aria-label="Twitter">
+          <i class="fa-fw fab fa-twitter"></i>
+        </a>
+    
+      
+        <a href="https://www.facebook.com/sharer/sharer.php?title=Transloc+-+Aaron+Hsu&u=http%3A%2F%2Flocalhost%3A4000%2Fposts%2Fc1-bus%2F" data-toggle="tooltip" data-placement="top"
+          title="Facebook" target="_blank" rel="noopener" aria-label="Facebook">
+          <i class="fa-fw fab fa-facebook-square"></i>
+        </a>
+    
+      
+        <a href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Flocalhost%3A4000%2Fposts%2Fc1-bus%2F" data-toggle="tooltip" data-placement="top"
+          title="Linkedin" target="_blank" rel="noopener" aria-label="Linkedin">
+          <i class="fa-fw fab fa-linkedin"></i>
+        </a>
+    
+
+    <i id="copy-link" class="fa-fw fas fa-link small"
+        data-toggle="tooltip" data-placement="top"
+        title="Copy link"
+        data-title-succeed="Link copied successfully!">
+    </i>
+
+  </span>
+</div>
+
+
+  </div><!-- .post-tail-bottom -->
+
+</div><!-- div.post-tail-wrapper -->
+
 
       
     
@@ -698,11 +981,174 @@
     </div>
 
     
+      
+      
+
+
+
+<!-- BS-toc.js will be loaded at medium priority -->
+<script src="https://cdn.jsdelivr.net/gh/afeld/bootstrap-toc@1.0.1/dist/bootstrap-toc.min.js"></script>
+
+<div id="toc-wrapper" class="pl-0 pr-4 mb-5">
+  <div class="panel-heading pl-3 pt-2 mb-2">Contents</div>
+  <nav id="toc" data-toggle="toc"></nav>
+</div>
+
+
+    
   </div>
 
 </div>
 
 <!-- tail -->
+
+<div class="row">
+  <div id="tail-wrapper" class="col-12 col-lg-11 col-xl-9 pl-3 pr-3 pr-xl-4 mt-5">
+    
+      
+      <!--
+ Recommend the other 3 posts according to the tags and categories of the current post,
+ if the number is not enough, use the other latest posts to supplement.
+-->
+
+<!-- The total size of related posts  -->
+
+
+<!-- An random integer that bigger than 0  -->
+
+
+<!-- Equals to TAG_SCORE / {max_categories_hierarchy}  -->
+
+
+
+
+
+
+
+
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+
+
+
+<!-- Fill with the other newlest posts  -->
+
+
+
+  
+    
+    
+  
+    
+    
+      
+      
+        
+        
+        
+      
+    
+  
+
+
+
+  <div id="related-posts" class="mb-2 mb-sm-4">
+    <h3 class="pt-2 mb-4 ml-1"
+      data-toc-skip>Further Reading</h3>
+    <div class="card-deck mb-4">
+    
+      
+      
+      <div class="card">
+        <a href="/posts/min-maxing-life/">
+          <div class="card-body">
+            <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
+-->
+
+
+
+
+
+<em class="small"
+    data-ts="1671702900"
+    data-df="ll"
+    >
+  Dec 22, 2022
+</em>
+
+            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>Min-Maxing Life</h3>
+            <div class="text-muted small">
+              <p>
+                
+
+
+
+
+
+                
+  TL;DR:
+  Optimizing for the development of desirable skills is a prevalent concept in games, but it also has real-life parallels. Although there are caveats to the analogy, this idea of “min-max...
+              </p>
+            </div>
+          </div>
+        </a>
+      </div>
+    
+    </div> <!-- .card-deck -->
+  </div> <!-- #related-posts -->
+
+
+    
+      
+      <!--
+  Navigation buttons at the bottom of the post.
+-->
+
+<div class="post-navigation d-flex justify-content-between">
+  
+  <a href="/posts/min-maxing-life/" class="btn btn-outline-primary"
+    prompt="Older">
+    <p>Min-Maxing Life</p>
+  </a>
+  
+
+  
+  <div class="btn btn-outline-primary disabled"
+    prompt="Newer">
+    <p>-</p>
+  </div>
+  
+
+</div>
+
+    
+      
+      <!--  The comments switcher -->
+
+
+    
+  </div>
+</div>
 
 
       </div>
@@ -985,6 +1431,52 @@ SimpleJekyllSearch({
 <!-- layout specified -->
 
 
+  
+
+
+
+  <!-- image lazy-loading & popup & clipboard -->
+  
+
+  
+
+
+
+
+
+
+
+  
+    
+
+    
+
+  
+
+
+
+  
+    
+
+    
+
+  
+
+
+
+  
+    
+
+    
+
+  
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/combine/npm/magnific-popup@1/dist/jquery.magnific-popup.min.js,npm/lozad/dist/lozad.min.js,npm/clipboard@2/dist/clipboard.min.js"></script>
+
+
 
 
 
@@ -1048,7 +1540,7 @@ SimpleJekyllSearch({
 
 
 
-<script defer src="/assets/js/dist/misc.min.js"></script>
+<script defer src="/assets/js/dist/post.min.js"></script>
 
 
 

@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Aaron Hsu</title>
   <subtitle>Aaron Hsu's personal website.</subtitle>
-  <updated>2023-01-02T07:45:41+00:00</updated>
+  <updated>2023-01-04T23:25:24+00:00</updated>
   <author>
     <name>Aaron Hsu</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,49 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Transloc</title>
+    <link href="http://localhost:4000/posts/c1-bus/" rel="alternate" type="text/html" title="Transloc" />
+    <published>2023-01-03T16:00:00+00:00</published>
+  
+    <updated>2023-01-03T16:00:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/c1-bus/</id>
+    <content src="http://localhost:4000/posts/c1-bus/" />
+    <author>
+      <name>aaron</name>
+    </author>
+
+  
+    
+    <category term="projects" />
+    
+    <category term="engineering" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  TL;DR:
+  I built a device that displays the bus schedule for the bus that runs between the two halves of Duke’s campus.
+
+
+
+
+Duke is split into two halves, East Campus and West Campus. East houses the freshman undergraduate population and a few classes (mostly humanities) and the rest of the university is on West. There’s a bus line called the C-1 that runs between the two campuses. Buses run...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
