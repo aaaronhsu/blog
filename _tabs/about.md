@@ -6,7 +6,7 @@ order: 4
 
 ## Hello! My name is Aaron Hsu and I'm an eighteen-year-old from NYC.
 
-I have ideas. Sometimes I share them with my friends but more often than not, they linger in my mind until they dissipate into thin air. The solution: this website! 
+I have ideas. Sometimes I share them with my friends but more often than not, they linger in my mind until they dissipate into thin air. This website aims to solve that.
 
 This website is meant to be a cross between a blog and a portfolio, a place where I can share my random thoughts and showcase my projects. It also serves as somewhat of a time capsule for my college years. I hope you find some of it interesting!
 
